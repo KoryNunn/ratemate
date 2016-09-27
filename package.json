@@ -1,0 +1,25 @@
+{
+  "name": "ratemate",
+  "version": "1.0.0",
+  "description": "Convert between rates of different frequencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/ratemate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/ratemate/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/ratemate#readme"
+}
